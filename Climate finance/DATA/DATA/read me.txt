@@ -1,0 +1,5 @@
+통계청 데이터 중 2015년 월별 데이터가 누락되어있어서 kosis에 문의드렸습니다.
+답변내용: https://kosis.kr/civilComplaint/qnaDetail.do
+
+답변해주신 페이지에서 확인해보았지만, 제조업, 서비스업 분야 별로 데이터를 얻을 수 없었습니다.
+https://home.kepco.co.kr/kepco/KO/ntcob/list.do?pageIndex=1&boardSeq=0&boardCd=BRD_000283&menuCd=FN05030105&parnScrpSeq=0&searchCondition=total&searchKeyword=2015
