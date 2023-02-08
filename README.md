@@ -14,7 +14,7 @@
  <p>
    <h3> 🌳Climate Change and Financial Stability in Korea </h3>
 
-   - GDP Prediction, Climate finance, Machine Learning
+   - Climate finance, Machine Learning
    - <b>Data</b>: Crawling, API
    - <b>Model</b>: XGBoost
 
