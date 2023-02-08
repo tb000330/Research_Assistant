@@ -16,6 +16,6 @@
 
    - GDP Prediction, Climate finance, Machine Learning
    - <b>Data</b>: Crawling, API
-   - 
+   - <b>Model</b>: XGBoost
 
 </p>
