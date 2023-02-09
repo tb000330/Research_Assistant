@@ -1,6 +1,7 @@
+<h1> Cross vaildation </h1>
 
-- 윈도우 안 데이터를 학습하여서 가장 fitted된 모델을 return하고 예측할 X값을 넣어준 후 바로 다음 분기 Y(실제값)을 예측해서 추정값 차이를 계산
+  - 윈도우 안 데이터를 학습하여서 가장 fitted된 모델을 return하고 예측할 X값을 넣어준 후 바로 다음 분기 Y(실제값)을 예측해서 추정값 차이를 계산
 
-- 예측했던 분기를 윈도우+1하고 또 다시 학습해서 가장 fitted된 모델을 return하고 바로 다음 분기 Y(실제값)을 예측해서 추정값 차이를 계산
+  - 예측했던 분기를 윈도우+1하고 또 다시 학습해서 가장 fitted된 모델을 return하고 바로 다음 분기 Y(실제값)을 예측해서 추정값 차이를 계산
 
-- Rollingwindow, Recursive method
+  - Rollingwindow, Recursive method
