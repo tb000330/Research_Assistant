@@ -17,5 +17,6 @@
    - Climate finance, Machine Learning
    - <b>Data</b>: Crawling, API
    - <b>Model</b>: XGBoost
+   - <a href="https://github.com/tb000330/Research_Assistant/tree/main/Climate%20finance/Weekly%20feedback%20meeting"><b> Weekly feedback meeting </b></a>
 
 </p>
