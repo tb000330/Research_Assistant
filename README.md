@@ -3,7 +3,7 @@
 <p>
   <h3> 📈GDP Prediction </h3>
     
-  - <a href="https://sites.google.com/view/pjh3479/research-areas?authuser=0"><b>딥러닝(Deep Learning) 방법론을 활용한 GDP 예측모형 연구</b></a>
+  - <a href="https://www.nabo.go.kr/Sub/01Report/05_Board.jsp?funcSUB=view&bid=19&arg_cid1=0&arg_cid2=0&arg_class_id=0&currentPage=0&pageSize=10&currentPageSUB=0&pageSizeSUB=10&key_typeSUB=&keySUB=&search_start_dateSUB=&search_end_dateSUB=&department=0&department_sub=0&etc_cate1=&etc_cate2=&sortBy=department_name&ascOrDesc=asc&search_key1=&etc_1=0&etc_2=0&tag_key=&arg_id=7833&item_id=7833&etc_1=0&etc_2=0&name2=0"><b>딥러닝(Deep Learning) 방법론을 활용한 GDP 예측모형 연구</b></a>
   - Deep Learning, Macroeconomics
   - <b>Data</b>: API
   - <b>Model</b>: MLP, RNN, LSTM, GRU 
